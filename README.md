@@ -1,4 +1,4 @@
-# programmingportfolio
+# Programming Portfolio
 
 ## Tech Certifications
 * Computer Programming 1 USOE State Certification
