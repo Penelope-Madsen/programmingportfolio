@@ -2,6 +2,7 @@
 
 ## Tech Certifications
 * Computer Programming 1 USOE State Certification
+  [PDF Certificate]()
 
 ## Group Project
 
