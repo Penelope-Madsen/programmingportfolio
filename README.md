@@ -24,10 +24,10 @@ OOP graphical app using graphics and keyboard listeners (wasd) for a full user e
 
 ### Conversion App
 App using graphics and mouse listeners to convert degrees to radians.
-![UserExperience](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/images/line-000508.png)
-[Source Code](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/src/Etch_A_Sketch.pde)
+![UserExperience](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/images/ConversionAppImage.png)
+[Source Code](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/src/ConversionApp.pde)
 
 ### WordCreator App
 App that randomly creates words and includes definitions (first python project).
-![UserExperience](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/images/line-000508.png)
-[Source Code](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/src/Etch_A_Sketch.pde)
+![UserExperience](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/images/WordCreatorImage.png)
+[Source Code](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/src/WordCreator.py)
