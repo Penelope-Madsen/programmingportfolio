@@ -2,7 +2,7 @@
 
 ## Tech Certifications
 * Computer Programming 1 USOE State Certification
-  [PDF Certificate]()
+  [PDF Certificate](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/images/Penelope%20Madsen_Computer%20Programming%20I_12182023.pdf)
 
 ## Group Project
 
