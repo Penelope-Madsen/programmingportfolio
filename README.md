@@ -6,6 +6,10 @@
 
 ## Group Project
 
+### Empty Rooms
+A storytelling based game based on user's choices. They must make choices to escape an empty room, with some decisions coming back to haunt them later.
+
+
 ## Individual Projects
 
 ### Space Game
