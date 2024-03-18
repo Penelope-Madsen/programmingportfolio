@@ -9,7 +9,7 @@
 
 ### Empty Rooms
 A storytelling based game based on user's choices. They must make choices to escape an empty room, with some decisions coming back to haunt them later.
-![UserExperience]((https://github.com/Penelope-Madsen/programmingportfolio/blob/main/images/EmptyRooms.png))
+![UserExperience](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/images/EmptyRooms.png)
 [Empty Rooms github repository](https://github.com/Rahul7834/Empty-Rooms)
 
 ## Individual Projects
