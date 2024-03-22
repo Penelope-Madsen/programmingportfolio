@@ -1,4 +1,4 @@
-# Programming Portfolio
+# Programming Portfolio - Penny Madsen - penelope.madsen@gmail.com
 
 ## Tech Certifications
 * Computer Programming 1 USOE State Certification
