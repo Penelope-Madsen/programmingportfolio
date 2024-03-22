@@ -4,19 +4,13 @@
 * Computer Programming 1 USOE State Certification
   [PDF Certificate](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/images/Penelope%20Madsen_Computer%20Programming%20I_12182023.pdf)
 
-## Group Project
-
-
-### Empty Rooms
-A storytelling based game based on user's choices. They must make choices to escape an empty room, with some decisions coming back to haunt them later.
-![UserExperience](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/images/EmptyRooms.png)
-[Empty Rooms github repository](https://github.com/Rahul7834/Empty-Rooms)
-
-## Individual Projects
+## Individual Final Project
 
 ### Rocket Man
 A much improved kind of story game, based on the game [Reigns: Her Majesty](https://store.steampowered.com/app/717640/Reigns_Her_Majesty/). 
 [Rocket Man repository](https://github.com/Penelope-Madsen/RocketMan)
+
+## Individual Early Projects
 
 ### Space Game
 OOP graphical game using sound and images for a full user experience.
@@ -37,6 +31,13 @@ OOP graphical app using graphics and keyboard listeners (wasd) for a full user e
 App using graphics and mouse listeners to convert degrees to radians.
 ![UserExperience](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/images/ConversionAppImage.png?raw=true)
 [Source Code](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/src/ConversionApp.pde)
+
+## Group Project
+
+### Empty Rooms
+A storytelling based game based on user's choices. They must make choices to escape an empty room, with some decisions coming back to haunt them later.
+![UserExperience](https://github.com/Penelope-Madsen/programmingportfolio/blob/main/images/EmptyRooms.png)
+[Empty Rooms github repository](https://github.com/Rahul7834/Empty-Rooms)
 
 ### WordCreator App
 App that randomly creates words and includes definitions (first python project).
