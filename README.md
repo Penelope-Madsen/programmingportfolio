@@ -16,7 +16,7 @@ A storytelling based game based on user's choices. They must make choices to esc
 
 ### Rocket Man
 A much improved kind of story game, based on the game [Reigns: Her Majesty](https://store.steampowered.com/app/717640/Reigns_Her_Majesty/). 
-[Rocket Man repository]()
+[Rocket Man repository](https://github.com/Penelope-Madsen/RocketMan)
 
 ### Space Game
 OOP graphical game using sound and images for a full user experience.
