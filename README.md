@@ -6,9 +6,9 @@
 
 ## Individual Final Project
 
-### Rocket Man
+### Stargazers
 A much improved kind of story game, based on the game [Reigns: Her Majesty](https://store.steampowered.com/app/717640/Reigns_Her_Majesty/). 
-[Rocket Man repository](https://github.com/Penelope-Madsen/RocketMan)
+[Stargazers repository](https://github.com/Penelope-Madsen/RocketMan)
 
 ## Individual Early Projects
 
